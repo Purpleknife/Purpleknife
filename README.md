@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9677B8EE&center=true&vCenter=true&width=435&lines=Welcome+to+Hind+Nayhi's+Github!)](https://git.io/typing-svg)
 
-Junior Full-Stack Developper looking for new opportunities!
-
 </div>
 
 ```javascript
