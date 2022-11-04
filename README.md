@@ -9,7 +9,7 @@
 const purpleKnife = {
   status: 'Looking for a Full-Stack Web Developer job',
   stack: {
-    languages: ['JavaScript', 'HTML', 'CSS', 'Ruby', 'TypeScript],
+    languages: ['JavaScript', 'HTML', 'CSS', 'Ruby', 'TypeScript'],
     frameworksAndLibrairies: ['React JS', 'Node JS', 'Express', 'Axios', 'Ajax', 'Rails', 'jQuery', 'Bootstrap', 'SASS', 'WebSocket'],
     database: ['SQL', 'PostgreSQL'],
     testing: ['Mocha', 'Chai', 'Rspec', 'Jest', 'Storybook', 'Cypress']
