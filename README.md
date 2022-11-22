@@ -7,7 +7,7 @@
 
 ```javascript
 const purpleKnife = {
-  status: 'Looking for a Full-Stack Web Developer job',
+  status: 'Looking for a Full-Stack Web Developer position',
   stack: {
     languages: ['JavaScript', 'HTML', 'CSS', 'Ruby', 'TypeScript'],
     frameworksAndLibrairies: ['React JS', 'Node JS', 'Express', 'Axios', 'Ajax', 'Rails', 'jQuery', 'Bootstrap', 'SASS', 'WebSockets'],
