@@ -22,7 +22,7 @@ const purpleKnife = {
   <a href="https://www.linkedin.com/in/hindnayhi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp;
   <a href="mailto:hind.nayhi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
