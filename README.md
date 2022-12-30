@@ -7,7 +7,7 @@
 
 ```javascript
 const purpleKnife = {
-  status: 'Looking for a Full-Stack Web Developer position',
+  status: 'Junior Software Developer',
   stack: {
     languages: ['JavaScript', 'HTML', 'CSS', 'Ruby', 'TypeScript'],
     frameworksAndLibrairies: ['React JS', 'Node JS', 'Redux', 'Express', 'Axios', 'Ajax', 'Rails', 'jQuery', 'Bootstrap', 'SASS', 'WebSockets'],
