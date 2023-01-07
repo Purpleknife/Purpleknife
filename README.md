@@ -7,7 +7,7 @@
 
 ```javascript
 const purpleKnife = {
-  status: 'Junior Software Developer',
+  status: 'Junior Software Developer at Vivid Theory',
   stack: {
     languages: ['JavaScript', 'HTML', 'CSS', 'Ruby', 'TypeScript'],
     frameworksAndLibrairies: ['React JS', 'Node JS', 'Redux', 'Express', 'Axios', 'Ajax', 'Rails', 'jQuery', 'Bootstrap', 'SASS', 'WebSockets'],
