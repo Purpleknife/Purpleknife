@@ -9,9 +9,9 @@
 const purpleKnife = {
   status: 'Junior Software Developer at Vivid Theory',
   stack: {
-    languages: ['JavaScript', 'HTML', 'CSS', 'Ruby', 'TypeScript'],
-    frameworksAndLibrairies: ['React JS', 'NextJS', 'MUI', 'Node JS', 'Redux', 'Express', 'Rails', 'jQuery', 'Bootstrap', 'SASS', 'WebSockets'],
-    database: ['SQL', 'PostgreSQL'],
+    languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Ruby'],
+    frameworksAndLibrairies: ['React JS', 'NextJS', 'MUI', 'Nest JS', 'Node JS', 'Redux', 'Express', 'Rails', 'jQuery', 'Bootstrap', 'SASS'],
+    database: ['SQL', 'PostgreSQL', 'GraphQL', 'Prisma', 'Sequelize'],
     testing: ['Mocha', 'Chai', 'Rspec', 'Jest', 'Storybook', 'Cypress']
   }
 };
