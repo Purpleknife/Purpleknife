@@ -7,12 +7,14 @@
 
 ```javascript
 const purpleKnife = {
-  status: 'Junior Software Developer at Vivid Theory',
+  status: 'Full Stack Developer at Vivid Theory | BigGeo',
   stack: {
-    languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Ruby'],
-    frameworksAndLibrairies: ['React JS', 'NextJS', 'MUI', 'Nest JS', 'Node JS', 'Redux', 'Express', 'Rails', 'jQuery', 'Bootstrap', 'SASS'],
-    database: ['SQL', 'PostgreSQL', 'GraphQL', 'Prisma', 'Sequelize'],
-    testing: ['Mocha', 'Chai', 'Rspec', 'Jest', 'Storybook', 'Cypress']
+    languages: ['TypeScript', 'JavaScript', 'Rust', 'HTML', 'CSS', 'Ruby'],
+    frameworksAndLibrairies: ['React JS', 'Next JS', 'Nest JS', 'Node JS', 'Express', 'Rails', 'jQuery', 'MUI', 'Bootstrap', 'SASS', 'Mapbox'],
+    database: ['SQL', 'PostgreSQL', 'GraphQL', 'Prisma', 'Sequelize', 'DuckDB'],
+    testing: ['Mocha', 'Chai', 'Rspec', 'Jest', 'Storybook', 'Cypress', 'Playwright', 'Selenium', 'BrowserStack'],
+    other: ['Snowflake', 'Docker', 'Linux', 'Linear'],
+    spokenLanguages: 'Bilingual (English, French)'
   }
 };
 ```
