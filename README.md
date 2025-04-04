@@ -21,9 +21,9 @@ const purpleKnife = {
   <p align="center">🧷 Links</p>
   <a href="https://www.linkedin.com/in/hindnayhi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:hind.nayhi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/hindnay"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:hind.nayhi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 
